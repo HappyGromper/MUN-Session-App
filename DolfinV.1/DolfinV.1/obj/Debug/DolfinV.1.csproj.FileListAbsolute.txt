@@ -1,0 +1,14 @@
+C:\Users\Precious Antiquity\source\repos\DolfinV.1\DolfinV.1\bin\Debug\DolfinV.1.exe.config
+C:\Users\Precious Antiquity\source\repos\DolfinV.1\DolfinV.1\bin\Debug\DolfinV.1.exe
+C:\Users\Precious Antiquity\source\repos\DolfinV.1\DolfinV.1\bin\Debug\DolfinV.1.pdb
+C:\Users\Precious Antiquity\source\repos\DolfinV.1\DolfinV.1\obj\Debug\DolfinV._1.Properties.Resources.resources
+C:\Users\Precious Antiquity\source\repos\DolfinV.1\DolfinV.1\obj\Debug\DolfinV.1.csproj.GenerateResource.cache
+C:\Users\Precious Antiquity\source\repos\DolfinV.1\DolfinV.1\obj\Debug\DolfinV.1.csproj.CoreCompileInputs.cache
+C:\Users\Precious Antiquity\source\repos\DolfinV.1\DolfinV.1\obj\Debug\DolfinV.1.exe
+C:\Users\Precious Antiquity\source\repos\DolfinV.1\DolfinV.1\obj\Debug\DolfinV.1.pdb
+C:\Users\Precious Antiquity\source\repos\DolfinV.1\DolfinV.1\obj\Debug\DolfinV._1.MUNCharterSheet.resources
+C:\Users\Precious Antiquity\source\repos\DolfinV.1\DolfinV.1\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\Precious Antiquity\source\repos\DolfinV.1\DolfinV.1\obj\Debug\Interop.VSTOEE100.dll
+C:\Users\Precious Antiquity\source\repos\DolfinV.1\DolfinV.1\obj\Debug\Interop.VSTOEE90.dll
+C:\Users\Precious Antiquity\source\repos\DolfinV.1\DolfinV.1\obj\Debug\DolfinV.1.csproj.ResolveComReference.cache
+C:\Users\Precious Antiquity\source\repos\DolfinV.1\DolfinV.1\obj\Debug\DolfinV.1.csprojAssemblyReference.cache
